@@ -98,6 +98,7 @@ See the following list of supported Operating systems with the Zabbix releases:
 | Ubuntu 22.04 jammy  |  V  |  V  |  V  |  V  |
 | Debian 12 bookworm  |  V  |  V  |  V  |  V  |
 | Debian 11 bullseye  |  V  |  V  |  V  |  V  |
+| Suse Fam 16         |  V  |     |  V  |     |
 | Suse Fam 15         |  V  |  V  |  V  |  V  |
 | FreeBSD 15          |  V  |  V  |  V  |  V  |
 | FreeBSD 14          |  V  |  V  |  V  |  V  |

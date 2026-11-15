@@ -1,0 +1,2 @@
+minor_changes:
+  - zabbix_agent - add support for SUSE Linux Enterprise Server 16 and openSUSE Leap 16 with Zabbix 7.4 and 7.0.
